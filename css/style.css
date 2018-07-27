@@ -1,3 +1,15 @@
+* {
+    font-family: 'Oxygen', sans-serif;
+}
+
+#logo {
+    height: 300px;
+}
+
+h3 {
+    font-weight: 500;
+}
+
 #movies img, #movie img {
     width: 100%;
 }
